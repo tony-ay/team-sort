@@ -1,26 +1,35 @@
-player 1,	b5
-player 2,	g1
-player 3,	d1
-player 4,	p3
-player 5,	b2
-player 6,	b1
-player 7,	g2
-player 8,	g5
-player 9,	g4
-player 10,	g2
-player 11,	s1
-player 12,	s3
-player 13,	s4
-player 14,	s5
-player 15,	g1
-player 16,	p4
-player 17,	p5
-player 18,	g1
-player 19,	b4
-player 20,	b3
-player 21,	b1
-player 22,	b2
-player 23,	s3
-player 24,	s2
-player 25,	s1
-player 26,	s2
+player 1,	b5,	player 5
+player 2,	g1,	player 25
+player 3,	d1,	player 19
+player 4,	p3,
+player 5,	b2,	player 1
+player 6,	b1,	player 18
+player 7,	g2,
+player 8,	g5,	player 31
+player 9,	g4,
+player 10,	g2,	player 14
+player 11,	s1,	player 21
+player 12,	s3,	player 23
+player 13,	s4,	player 26
+player 14,	s5,	player 10
+player 15,	g1,
+player 16,	p4,
+player 17,	p5,	player 28
+player 18,	g1,	player 6
+player 19,	b4,	player 3
+player 20,	b3,
+player 21,	b1,	player 11
+player 22,	b2,
+player 23,	s3,	player 12
+player 24,	s2,
+player 25,	s1,	player 2
+player 26,	p3,	player 13
+player 27,	d5,
+player 28,	b1,	player 17
+player 29,	g3,
+player 30,	g5,
+player 31,	s1,	player 8
+player 32,	s4,	player 34
+player 33,	p5,
+player 34,	p4,
+player 35,	b2,	player 32
